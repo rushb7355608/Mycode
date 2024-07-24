@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Caffine
+  data:
+    redis:
+      host: 192.168.40.128
+      port: 6379
+      password: ly123456
