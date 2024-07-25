@@ -1,4 +1,4 @@
-package com.ly;
+package com.ly.config;
 
 import com.alibaba.fastjson.support.spring.FastJsonRedisSerializer;
 import org.springframework.context.annotation.Bean;
